@@ -1,5 +1,9 @@
 
 #### Computer Configuration
+First make sure your download WSL 
+```bash
+ wsl --install
+```
 run this line to see check version and status of WSL. Run it on PowerShell or Command Prompt 
 ```bash
 wsl --status
